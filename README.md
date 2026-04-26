@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 A playable browser-based Snake game is available in `snake-game.html`.
 
+
 ## Recommended launch (works with Python directly)
 
 If `launch-snake.cmd` is not recognized, use this command from the repo root:
@@ -74,3 +75,4 @@ Windows-specific launcher file:
 - Run `cd C:\path\to\AnkitGadge` first.
 - Verify file exists with `dir launch-snake.cmd`.
 - If still failing, use `python launch-snake.py 8000` (does not rely on `.cmd` lookup).
+
